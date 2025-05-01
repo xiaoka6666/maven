@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>kaptainwutax</groupId>
-  <artifactId>seedcrackerX</artifactId>
+  <artifactId>seedcrackerx</artifactId>
   <version>0.2.7</version>
   <description>POM was created from install:install-file</description>
 </project>
